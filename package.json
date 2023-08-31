@@ -38,6 +38,7 @@
 	"type": "module",
 	"dependencies": {
 		"@cloudamqp/amqp-client": "^2.1.1",
+		"@sveltejs/adapter-netlify": "^1.0.0",
 		"@stripe/stripe-js": "^1.46.0",
 		"@supabase/auth-helpers-sveltekit": "^0.8.6",
 		"@supabase/supabase-js": "^2.4.0",
